@@ -31,14 +31,23 @@ export default function Announcements() {
 
   useEffect(() => {
     async function fetchCampaigns() {
-      const { data, error } = await supabase
-        .from("campaigns")
-        .select("*")
-        .eq("active", true)
-        .order("sort_order", { ascending: true });
+      try {
+        const { data, error } = await supabase
+          .from("campaigns")
+          .select("*")
+          .eq("active", true)
+          .order("sort_order", { ascending: true });
 
-      if (!error && data) setCampaigns(data as Campaign[]);
-      setLoading(false);
+        if (error) {
+          console.error("Kampanya getirme hatası:", error);
+        } else if (data) {
+          setCampaigns(data as Campaign[]);
+        }
+      } catch (err) {
+        console.error("Kampanya yüklenirken hata oluştu:", err);
+      } finally {
+        setLoading(false);
+      }
     }
     fetchCampaigns();
   }, []);
@@ -53,7 +62,31 @@ export default function Announcements() {
     );
   }
 
-  if (campaigns.length === 0) return null;
+  if (campaigns.length === 0) {
+    return (
+      <section id="announcements" className="section-pad relative overflow-hidden bg-[#0a0a0a]">
+        <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(ellipse_at_center,rgba(139,0,0,0.06)_0%,transparent_70%)]" />
+        <div className="mx-auto max-w-7xl px-8 lg:px-12 text-center">
+          <div className="mb-4 flex justify-center">
+            <div className="section-label">Fırsatlar</div>
+          </div>
+          <h2 className="mb-4 text-2xl font-bold text-white sm:text-3xl md:text-4xl" style={{ fontFamily: "'Cinzel', serif" }}>
+            Duyurular &amp; <span className="text-gradient-red">Kampanyalar</span>
+          </h2>
+          <div className="divider-red mx-auto mb-8" />
+          <div className="glass-dark mx-auto max-w-md p-8 border border-white/5 flex flex-col items-center">
+            <Megaphone className="mb-4 text-[#C41E3A]" size={36} />
+            <p className="text-sm text-white/60 mb-6" style={{ fontFamily: "'Montserrat', sans-serif" }}>
+              Şu an aktif bir indirim veya kampanyamız bulunmamaktadır. Gelecek etkinlikler ve size özel tasarımlar için bizimle iletişime geçebilirsiniz.
+            </p>
+            <a href="https://wa.me/905337124810" target="_blank" rel="noopener noreferrer" className="btn-primary inline-flex items-center gap-2">
+              WhatsApp'tan Bilgi Al
+            </a>
+          </div>
+        </div>
+      </section>
+    );
+  }
 
   return (
     <section id="announcements" className="section-pad relative overflow-hidden bg-[#0a0a0a]">
