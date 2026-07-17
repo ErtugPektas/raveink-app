@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.next",
+    "\\app",
+    "\\components",
+    "\\components\\layout",
+    "\\components\\sections",
+    "\\components\\ui"
+  ],
+  "SelectedNode": "\\components\\sections\\AboutSection.tsx",
+  "PreviewInSolutionExplorer": false
+}

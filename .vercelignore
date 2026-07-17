@@ -1,0 +1,5 @@
+.vs
+.git
+node_modules
+.next
+.vercel

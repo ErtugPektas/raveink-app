@@ -1,0 +1,315 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ertug\\Desktop\\RaveInk\\raveink-app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ertug\\Desktop\\RaveInk\\raveink-app\\components\\sections\\PortfolioGallery.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:components\\sections\\PortfolioGallery.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ertug\\Desktop\\RaveInk\\raveink-app\\components\\sections\\InstagramFeed.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:components\\sections\\InstagramFeed.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ertug\\Desktop\\RaveInk\\raveink-app\\components\\sections\\ContactSection.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:components\\sections\\ContactSection.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ertug\\Desktop\\RaveInk\\raveink-app\\components\\sections\\AboutSection.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:components\\sections\\AboutSection.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ertug\\Desktop\\RaveInk\\raveink-app\\components\\layout\\Footer.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:components\\layout\\Footer.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ertug\\Desktop\\RaveInk\\raveink-app\\components\\sections\\FAQ.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:components\\sections\\FAQ.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ertug\\Desktop\\RaveInk\\raveink-app\\components\\sections\\TattooServices.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:components\\sections\\TattooServices.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ertug\\Desktop\\RaveInk\\raveink-app\\components\\sections\\HeroSection.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:components\\sections\\HeroSection.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ertug\\Desktop\\RaveInk\\raveink-app\\components\\sections\\PiercingSection.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:components\\sections\\PiercingSection.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ertug\\Desktop\\RaveInk\\raveink-app\\components\\sections\\Testimonials.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:components\\sections\\Testimonials.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ertug\\Desktop\\RaveInk\\raveink-app\\components\\sections\\ArtistTeam.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:components\\sections\\ArtistTeam.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ertug\\Desktop\\RaveInk\\raveink-app\\components\\sections\\BookingSection.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:components\\sections\\BookingSection.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ertug\\Desktop\\RaveInk\\raveink-app\\components\\ui\\WhatsAppButton.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:components\\ui\\WhatsAppButton.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ertug\\Desktop\\RaveInk\\raveink-app\\components\\ui\\FloatingLogo.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:components\\ui\\FloatingLogo.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ertug\\Desktop\\RaveInk\\raveink-app\\components\\ui\\CustomCursor.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:components\\ui\\CustomCursor.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ertug\\Desktop\\RaveInk\\raveink-app\\components\\ui\\BackToTop.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:components\\ui\\BackToTop.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ertug\\Desktop\\RaveInk\\raveink-app\\components\\layout\\Navbar.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:components\\layout\\Navbar.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ertug\\Desktop\\RaveInk\\raveink-app\\app\\layout.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\layout.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TattooServices.tsx",
+              "DocumentMoniker": "C:\\Users\\ertug\\Desktop\\RaveInk\\raveink-app\\components\\sections\\TattooServices.tsx",
+              "RelativeDocumentMoniker": "components\\sections\\TattooServices.tsx",
+              "ToolTip": "C:\\Users\\ertug\\Desktop\\RaveInk\\raveink-app\\components\\sections\\TattooServices.tsx",
+              "RelativeToolTip": "components\\sections\\TattooServices.tsx",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAQwBQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-06-07T03:04:29.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ArtistTeam.tsx",
+              "DocumentMoniker": "C:\\Users\\ertug\\Desktop\\RaveInk\\raveink-app\\components\\sections\\ArtistTeam.tsx",
+              "RelativeDocumentMoniker": "components\\sections\\ArtistTeam.tsx",
+              "ToolTip": "C:\\Users\\ertug\\Desktop\\RaveInk\\raveink-app\\components\\sections\\ArtistTeam.tsx",
+              "RelativeToolTip": "components\\sections\\ArtistTeam.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-06-07T02:21:14.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PiercingSection.tsx",
+              "DocumentMoniker": "C:\\Users\\ertug\\Desktop\\RaveInk\\raveink-app\\components\\sections\\PiercingSection.tsx",
+              "RelativeDocumentMoniker": "components\\sections\\PiercingSection.tsx",
+              "ToolTip": "C:\\Users\\ertug\\Desktop\\RaveInk\\raveink-app\\components\\sections\\PiercingSection.tsx",
+              "RelativeToolTip": "components\\sections\\PiercingSection.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-06-07T10:59:24.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FAQ.tsx",
+              "DocumentMoniker": "C:\\Users\\ertug\\Desktop\\RaveInk\\raveink-app\\components\\sections\\FAQ.tsx",
+              "RelativeDocumentMoniker": "components\\sections\\FAQ.tsx",
+              "ToolTip": "C:\\Users\\ertug\\Desktop\\RaveInk\\raveink-app\\components\\sections\\FAQ.tsx",
+              "RelativeToolTip": "components\\sections\\FAQ.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-06-07T02:53:30.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Testimonials.tsx",
+              "DocumentMoniker": "C:\\Users\\ertug\\Desktop\\RaveInk\\raveink-app\\components\\sections\\Testimonials.tsx",
+              "RelativeDocumentMoniker": "components\\sections\\Testimonials.tsx",
+              "ToolTip": "C:\\Users\\ertug\\Desktop\\RaveInk\\raveink-app\\components\\sections\\Testimonials.tsx",
+              "RelativeToolTip": "components\\sections\\Testimonials.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-06-07T11:04:10.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Footer.tsx",
+              "DocumentMoniker": "C:\\Users\\ertug\\Desktop\\RaveInk\\raveink-app\\components\\layout\\Footer.tsx",
+              "RelativeDocumentMoniker": "components\\layout\\Footer.tsx",
+              "ToolTip": "C:\\Users\\ertug\\Desktop\\RaveInk\\raveink-app\\components\\layout\\Footer.tsx",
+              "RelativeToolTip": "components\\layout\\Footer.tsx",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-06-07T11:34:44.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactSection.tsx",
+              "DocumentMoniker": "C:\\Users\\ertug\\Desktop\\RaveInk\\raveink-app\\components\\sections\\ContactSection.tsx",
+              "RelativeDocumentMoniker": "components\\sections\\ContactSection.tsx",
+              "ToolTip": "C:\\Users\\ertug\\Desktop\\RaveInk\\raveink-app\\components\\sections\\ContactSection.tsx",
+              "RelativeToolTip": "components\\sections\\ContactSection.tsx",
+              "ViewState": "AgIAACwAAAAAAAAAAAAQwEYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-06-07T11:05:55.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AboutSection.tsx",
+              "DocumentMoniker": "C:\\Users\\ertug\\Desktop\\RaveInk\\raveink-app\\components\\sections\\AboutSection.tsx",
+              "RelativeDocumentMoniker": "components\\sections\\AboutSection.tsx",
+              "ToolTip": "C:\\Users\\ertug\\Desktop\\RaveInk\\raveink-app\\components\\sections\\AboutSection.tsx",
+              "RelativeToolTip": "components\\sections\\AboutSection.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-06-07T02:30:50.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PortfolioGallery.tsx",
+              "DocumentMoniker": "C:\\Users\\ertug\\Desktop\\RaveInk\\raveink-app\\components\\sections\\PortfolioGallery.tsx",
+              "RelativeDocumentMoniker": "components\\sections\\PortfolioGallery.tsx",
+              "ToolTip": "C:\\Users\\ertug\\Desktop\\RaveInk\\raveink-app\\components\\sections\\PortfolioGallery.tsx",
+              "RelativeToolTip": "components\\sections\\PortfolioGallery.tsx",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-06-07T03:04:30.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InstagramFeed.tsx",
+              "DocumentMoniker": "C:\\Users\\ertug\\Desktop\\RaveInk\\raveink-app\\components\\sections\\InstagramFeed.tsx",
+              "RelativeDocumentMoniker": "components\\sections\\InstagramFeed.tsx",
+              "ToolTip": "C:\\Users\\ertug\\Desktop\\RaveInk\\raveink-app\\components\\sections\\InstagramFeed.tsx",
+              "RelativeToolTip": "components\\sections\\InstagramFeed.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-06-07T02:43:45.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HeroSection.tsx",
+              "DocumentMoniker": "C:\\Users\\ertug\\Desktop\\RaveInk\\raveink-app\\components\\sections\\HeroSection.tsx",
+              "RelativeDocumentMoniker": "components\\sections\\HeroSection.tsx",
+              "ToolTip": "C:\\Users\\ertug\\Desktop\\RaveInk\\raveink-app\\components\\sections\\HeroSection.tsx",
+              "RelativeToolTip": "components\\sections\\HeroSection.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-06-07T02:54:00.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookingSection.tsx",
+              "DocumentMoniker": "C:\\Users\\ertug\\Desktop\\RaveInk\\raveink-app\\components\\sections\\BookingSection.tsx",
+              "RelativeDocumentMoniker": "components\\sections\\BookingSection.tsx",
+              "ToolTip": "C:\\Users\\ertug\\Desktop\\RaveInk\\raveink-app\\components\\sections\\BookingSection.tsx",
+              "RelativeToolTip": "components\\sections\\BookingSection.tsx",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-06-07T02:53:06.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WhatsAppButton.tsx",
+              "DocumentMoniker": "C:\\Users\\ertug\\Desktop\\RaveInk\\raveink-app\\components\\ui\\WhatsAppButton.tsx",
+              "RelativeDocumentMoniker": "components\\ui\\WhatsAppButton.tsx",
+              "ToolTip": "C:\\Users\\ertug\\Desktop\\RaveInk\\raveink-app\\components\\ui\\WhatsAppButton.tsx",
+              "RelativeToolTip": "components\\ui\\WhatsAppButton.tsx",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwDUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-06-08T02:08:06.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FloatingLogo.tsx",
+              "DocumentMoniker": "C:\\Users\\ertug\\Desktop\\RaveInk\\raveink-app\\components\\ui\\FloatingLogo.tsx",
+              "RelativeDocumentMoniker": "components\\ui\\FloatingLogo.tsx",
+              "ToolTip": "C:\\Users\\ertug\\Desktop\\RaveInk\\raveink-app\\components\\ui\\FloatingLogo.tsx",
+              "RelativeToolTip": "components\\ui\\FloatingLogo.tsx",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-06-07T23:26:09.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BackToTop.tsx",
+              "DocumentMoniker": "C:\\Users\\ertug\\Desktop\\RaveInk\\raveink-app\\components\\ui\\BackToTop.tsx",
+              "RelativeDocumentMoniker": "components\\ui\\BackToTop.tsx",
+              "ToolTip": "C:\\Users\\ertug\\Desktop\\RaveInk\\raveink-app\\components\\ui\\BackToTop.tsx",
+              "RelativeToolTip": "components\\ui\\BackToTop.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-06-07T23:25:57.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomCursor.tsx",
+              "DocumentMoniker": "C:\\Users\\ertug\\Desktop\\RaveInk\\raveink-app\\components\\ui\\CustomCursor.tsx",
+              "RelativeDocumentMoniker": "components\\ui\\CustomCursor.tsx",
+              "ToolTip": "C:\\Users\\ertug\\Desktop\\RaveInk\\raveink-app\\components\\ui\\CustomCursor.tsx",
+              "RelativeToolTip": "components\\ui\\CustomCursor.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-06-07T23:26:02.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Navbar.tsx",
+              "DocumentMoniker": "C:\\Users\\ertug\\Desktop\\RaveInk\\raveink-app\\components\\layout\\Navbar.tsx",
+              "RelativeDocumentMoniker": "components\\layout\\Navbar.tsx",
+              "ToolTip": "C:\\Users\\ertug\\Desktop\\RaveInk\\raveink-app\\components\\layout\\Navbar.tsx",
+              "RelativeToolTip": "components\\layout\\Navbar.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-06-07T02:31:41.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "layout.tsx",
+              "DocumentMoniker": "C:\\Users\\ertug\\Desktop\\RaveInk\\raveink-app\\app\\layout.tsx",
+              "RelativeDocumentMoniker": "app\\layout.tsx",
+              "ToolTip": "C:\\Users\\ertug\\Desktop\\RaveInk\\raveink-app\\app\\layout.tsx",
+              "RelativeToolTip": "app\\layout.tsx",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-06-07T02:52:03.575Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

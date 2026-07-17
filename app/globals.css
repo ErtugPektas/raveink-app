@@ -1,0 +1,257 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import "tailwindcss";
+
+:root {
+  --bg-primary: #0a0a0a;
+  --bg-secondary: #111111;
+  --bg-card: #1a1a1a;
+  --accent-red: #C41E3A;
+  --accent-red-dark: #8B0000;
+  --accent-red-glow: rgba(196, 30, 58, 0.3);
+  --silver: #C0C0C0;
+  --silver-light: #E8E8E8;
+  --text-muted: #666666;
+  --text-secondary: #999999;
+  --border-subtle: #222222;
+  --border-red: rgba(196, 30, 58, 0.4);
+}
+
+/* ─── Box sizing only — margin/padding reset removed to not conflict with Tailwind mx-auto ─── */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+
+}
+
+/* ─── HTML / Body ─── */
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 80px;
+  width: 100%;
+}
+
+body {
+    width: 100%;
+    min-height: 100vh;
+    background-color: var(--bg-primary);
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+/* ─── Force all max-w containers to center ─── */
+[class*="max-w-"] {
+  margin-left: auto !important;
+  margin-right: auto !important;
+  width: 100%;
+}
+
+/* ─── Sections fill full width ─── */
+section {
+  width: 100%;
+  display: block;
+}
+
+/* ─── Custom Scrollbar ─── */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: var(--bg-secondary); }
+::-webkit-scrollbar-thumb { background: var(--accent-red-dark); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: var(--accent-red); }
+
+/* ─── Text Selection ─── */
+::selection { background: var(--accent-red); color: #ffffff; }
+
+/* ─── Heading Font ─── */
+h1, h2, h3 {
+  font-family: 'Cinzel', serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* ─── Utility: Cinzel font ─── */
+.font-cinzel {
+  font-family: 'Cinzel', serif;
+}
+
+/* ─── Gradient text ─── */
+.text-gradient {
+  background: linear-gradient(135deg, #ffffff 0%, var(--silver) 50%, var(--accent-red) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.text-gradient-red {
+  background: linear-gradient(135deg, var(--accent-red) 0%, #ff4060 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* ─── Glow effects ─── */
+.glow-red {
+  box-shadow: 0 0 20px var(--accent-red-glow), 0 0 40px rgba(196, 30, 58, 0.15);
+}
+.glow-red-text {
+  text-shadow: 0 0 20px rgba(196, 30, 58, 0.6), 0 0 40px rgba(196, 30, 58, 0.3);
+}
+
+/* ─── Glassmorphism ─── */
+.glass {
+  background: rgba(255, 255, 255, 0.03);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+}
+.glass-dark {
+  background: rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+/* ─── Buttons ─── */
+.btn-primary {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 14px 32px;
+  background: linear-gradient(135deg, var(--accent-red-dark), var(--accent-red));
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  font-size: 0.875rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  border: none;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: hidden;
+  text-decoration: none;
+}
+.btn-primary::before {
+  content: '';
+  position: absolute;
+  top: 0; left: -100%;
+  width: 100%; height: 100%;
+  background: linear-gradient(135deg, var(--accent-red), #ff4060);
+  transition: left 0.3s ease;
+}
+.btn-primary:hover::before { left: 0; }
+.btn-primary:hover {
+  box-shadow: 0 8px 30px rgba(196, 30, 58, 0.5);
+  transform: translateY(-2px);
+}
+.btn-primary span { position: relative; z-index: 1; }
+
+.btn-outline {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 13px 31px;
+  background: transparent;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  font-size: 0.875rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  cursor: pointer;
+  transition: all 0.3s ease;
+  text-decoration: none;
+}
+.btn-outline:hover {
+  border-color: var(--accent-red);
+  color: var(--accent-red);
+  box-shadow: 0 0 20px rgba(196, 30, 58, 0.2);
+  transform: translateY(-2px);
+}
+
+/* ─── Section label ─── */
+.section-label {
+  font-family: 'Cinzel', serif;
+  font-size: 0.75rem;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  color: var(--accent-red);
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.section-label::before,
+.section-label::after {
+  content: '';
+  display: block;
+  height: 1px;
+  width: 40px;
+  background: linear-gradient(90deg, var(--accent-red), transparent);
+}
+.section-label::after {
+  background: linear-gradient(90deg, transparent, var(--accent-red));
+}
+
+/* ─── Divider ─── */
+.divider-red {
+  width: 60px;
+  height: 2px;
+  background: linear-gradient(90deg, var(--accent-red-dark), var(--accent-red));
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
+/* ─── Card hover ─── */
+.card-hover {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.card-hover:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5), 0 0 30px rgba(196, 30, 58, 0.1);
+}
+
+/* ─── Image hover zoom ─── */
+.img-zoom-wrap { overflow: hidden; }
+.img-zoom-wrap img { transition: transform 0.6s ease; }
+.img-zoom-wrap:hover img { transform: scale(1.08); }
+
+/* ─── Animated underline ─── */
+.hover-underline { position: relative; }
+.hover-underline::after {
+  content: '';
+  position: absolute;
+  bottom: -2px; left: 0;
+  width: 0; height: 1px;
+  background: var(--accent-red);
+  transition: width 0.3s ease;
+}
+.hover-underline:hover::after { width: 100%; }
+
+/* ─── Section spacing ─── */
+.section-pad {
+  padding-top: 140px;
+  padding-bottom: 140px;
+}
+@media (max-width: 1024px) {
+  .section-pad {
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+}
+@media (max-width: 768px) {
+  .section-pad {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+}
+@media (max-width: 480px) {
+  .section-pad {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+}
